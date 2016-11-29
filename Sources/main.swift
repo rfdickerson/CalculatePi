@@ -114,5 +114,5 @@ func printOutput(_ buffer: [Int], _ n: Int) {
     print(output)
 }
 
-computePi(withDigits: 27)
+computePi(withDigits: 1000)
 
